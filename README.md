@@ -1,7 +1,8 @@
 ## What led you to my digital diary of errors?
 
 <p align="center">
-</p>(https://github.com/user-attachments/assets/57364c16-cbac-48e3-be77-2699bd3ab2ea)
+  <img src="7gRx.gif" width="100%">
+</p>
 
 ## personal projects tierlist
 
