@@ -1,7 +1,7 @@
 ## What led you to my digital diary of errors?
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Tech HUD Banner">
+  <img src="https://i.gifer.com/7gRx.gif" width="100%" alt="Tech HUD Banner">
 </p>
 
 
