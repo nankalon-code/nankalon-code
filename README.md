@@ -1,9 +1,5 @@
 ## What led you to my digital diary of errors?
 
-<p align="center">
-  <img src="7gRx.gif" width="100%">
-</p>
-
 ## personal projects tierlist
 
 <table>
