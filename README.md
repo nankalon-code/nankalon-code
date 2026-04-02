@@ -1,4 +1,8 @@
-## Hi there 👋
+## What led you to my digital diary of errors?
+
+<p align="center">
+  <img src="https://i.gifer.com/7gRx.gif" width="100%" alt="Tech HUD Banner">
+</p>
 
 # personal projects tierlist
 
@@ -19,14 +23,14 @@
     </td>
     <td>
         <strong>fx-arbitrage-detection</strong><br>
-        <em>FX arbitrage detection identifies opportunities where a sequence of currency exchanges yields a risk-free profit, typically by converting an initial currency back to itself with a net gain.</em>
+        <em>Identifies sequences of currency exchanges that yield risk-free profit via cycle detection.</em>
     </td>
   </tr>
   <tr>
     <td align="center"></td>
     <td>
         <strong>My-Lab</strong><br>
-        <em>Made this because I wanted to feel like iron man.</em>
+        <em>Advanced workspace configuration designed for an immersive, Iron Man-inspired engineering environment.</em>
     </td>
   </tr>
 
@@ -36,14 +40,14 @@
     </td>
     <td>
       <strong>NyayBandhu</strong><br>
-      <em>An AI based project for betterment of resource distribution.</em>
+      <em>AI-driven platform optimized for the equitable distribution of legal and social resources.</em>
     </td>
   </tr>
   <tr>
     <td align="center"></td>
     <td>
       <strong>phase-transition-random-graphs</strong><br>
-      <em>Simulation of phase transitions in Erdős–Rényi random graphs.</em>
+      <em>Mathematical simulation of emergent properties in Erdős–Rényi random graph models.</em>
     </td>
   </tr>
 
@@ -53,7 +57,7 @@
     </td>
     <td>
       <strong>medilensai</strong><br>
-      <em>It helps in refining and defines the medical report for general public.</em>
+      <em>Simplifies and interprets complex medical reports for better public understanding.</em>
     </td>
   </tr>
 </table>
