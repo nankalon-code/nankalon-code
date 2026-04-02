@@ -1,5 +1,8 @@
 ## What led you to my digital diary of errors?
 
+<iframe src="https://gifer.com/embed/7gRx" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+
+
 ## personal projects tierlist
 
 <table>
