@@ -1,8 +1,9 @@
 ## What led you to my digital diary of errors?
 
 <p align="center">
-</p>![7gRx](https://github.com/user-attachments/assets/57364c16-cbac-48e3-be77-2699bd3ab2ea)
-# personal projects tierlist
+</p>!(https://github.com/user-attachments/assets/57364c16-cbac-48e3-be77-2699bd3ab2ea)
+
+## personal projects tierlist
 
 <table>
   <tr>
