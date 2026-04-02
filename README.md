@@ -1,9 +1,8 @@
 ## What led you to my digital diary of errors?
 
 <p align="center">
-  <img src="https://i.gifer.com/7gRx.gif" width="100%" alt="Tech HUD Banner">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2MGF4Y2ZtZjh6ZzB6ZzB6ZzB6ZzB6ZzB6ZzB6ZzB6ZzB6ZzB6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fXpP8jR7WwB0G7C17b/giphy.gif" width="100%" alt="High-Tech HUD Banner">
 </p>
-
 
 ## personal projects tierlist
 
