@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Custom Banner -->
   <img src="https://i.pinimg.com/1200x/90/29/fb/9029fb0b802d8cda2c28c0ad76b91aee.jpg" alt="Header Banner" width="100%" height="240" style="object-fit: cover; border-radius: 12px;" />
 </div>
 
@@ -9,7 +8,7 @@
 
 <div align="center">
   <font face="Courier New, Terminal, monospace" color="#e0def4" size="5"><b>HI, I AM APOORVA.</b></font><br>
-  <font face="Courier New, Terminal, monospace" color="#a9a1e1" size="3">I am a B.Tech Computer Science student at Rajasthan Technical University[cite: 2], engineering solutions at the intersection of AI, Quantitative Finance, and Hardware[cite: 2].</font>
+  <font face="Courier New, Terminal, monospace" color="#a9a1e1" size="3">I am a developer who loves turning complex problems into elegant, data-driven solutions. Welcome to my digital space.</font>
 </div>
 
 <div align="center">
@@ -39,32 +38,35 @@
           <td colspan="2" align="center" style="padding: 20px;">
             <font color="#7ee787" face="Courier New, Terminal, monospace"><b>> Initializing Core Modules... [SUCCESS]</b></font><br>
             <font color="#a9a1e1" face="Courier New, Terminal, monospace"><b>> Mounting AI & Hardware environments... [OK]</b></font><br><br>            
-            <!-- Perfectly Aligned Tech Stack Rows -->
-            <p align="center">
-              <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-              <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-              <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-              <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-              <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-            </p>
-            <p align="center">
-              <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-              <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-              <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-              <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-            </p>
-            <p align="center">
-              <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
-              <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-              <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-              <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-            </p>
-            <p align="center">
-              <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-              <img src="https://img.shields.io/badge/KiCad-314A8F?style=for-the-badge&logo=kicad&logoColor=white" />
-              <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=5586A4" />
-              <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
-            </p>
+            <table width="100%" style="border: none; background-color: transparent;">
+              <tr>
+                <td align="center"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></td>
+              </tr>
+              <tr><td colspan="4" style="padding: 6px;"></td></tr>
+              <tr>
+                <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
+              </tr>
+              <tr><td colspan="4" style="padding: 6px;"></td></tr>
+              <tr>
+                <td align="center"><img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></td>
+              </tr>
+              <tr><td colspan="4" style="padding: 6px;"></td></tr>
+              <tr>
+                <td align="center"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/KiCad-314A8F?style=for-the-badge&logo=kicad&logoColor=white" /></td>
+                <td align="center"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" /></td>
+              </tr>
+            </table>
             <br>            
             <a href="https://github.com/nankalon-code">
               <kbd style="background-color:#1c1a24; border: 1px solid #3b3259; padding: 4px 20px;"><font color="#a9a1e1" face="Courier New, Terminal, monospace"><b>Execute()</b></font></kbd>
@@ -82,11 +84,11 @@
 
 | TIER | SYSTEM PARAMETERS |
 | :---: | :--- |
-| <img src="https://img.shields.io/badge/S-FF5555?style=for-the-badge" width="80"> | **Neural SDE Volatility Surface Model**<br>Derivatives pricing matrix leveraging Neural SDEs over 20 years of options data (23% tighter fit than Black-Scholes). PostgreSQL backend for options data storage and query optimization[cite: 2]. |
-| <img src="https://img.shields.io/badge/S-FF5555?style=for-the-badge" width="80"> | **Real-Time FX Arbitrage Detection**<br>High-frequency cycle execution engine handling 50K+ ticks/sec via WebSockets. Bellman-Ford path routing and Deep Q-Networks for <5ms operational fills (147bps monthly alpha)[cite: 2]. |
-| <img src="https://img.shields.io/badge/A-FFB86C?style=for-the-badge" width="80"> | **Distributed Strategy Backtest Engine**<br>Massively parallel high-throughput backtesting matrix utilizing Ray and Dask clusters to spin 10,000+ vector variants across 15 historical years. Augmented by LLM-assisted strategy pipelines[cite: 2]. |
-| <img src="https://img.shields.io/badge/B-8BE9FD?style=for-the-badge" width="80"> | **Interactive BI Dashboard**<br>Analytical pipeline syncing 5+ multi-source operational datashards via Azure Data Factory. Architected 30+ custom DAX measures for cohort analysis and YoY growth inside Power BI[cite: 2]. |
-| <img src="https://img.shields.io/badge/C-F1FA8C?style=for-the-badge" width="80"> | **PID Self-Balancing Robotics Platform**<br>Autonomous mechatronic vehicle implementing real-time IMU sensor fusion. Etched physical dual-plane logic layout using KiCad/Proteus and structured a native 3D simulation via OpenGL[cite: 2]. |
+| <img src="https://img.shields.io/badge/S-FF5555?style=for-the-badge" width="80"> | **Neural SDE Volatility Surface Model**<br>Derivatives pricing matrix leveraging Neural SDEs over 20 years of options data (23% tighter fit than Black-Scholes). PostgreSQL backend for options data storage and query optimization. |
+| <img src="https://img.shields.io/badge/S-FF5555?style=for-the-badge" width="80"> | **Real-Time FX Arbitrage Detection**<br>High-frequency cycle execution engine handling 50K+ ticks/sec via WebSockets. Bellman-Ford path routing and Deep Q-Networks for <5ms operational fills (147bps monthly alpha). |
+| <img src="https://img.shields.io/badge/A-FFB86C?style=for-the-badge" width="80"> | **Distributed Strategy Backtest Engine**<br>Massively parallel high-throughput backtesting matrix utilizing Ray and Dask clusters to spin 10,000+ vector variants across 15 historical years. Augmented by LLM-assisted strategy pipelines. |
+| <img src="https://img.shields.io/badge/B-8BE9FD?style=for-the-badge" width="80"> | **Interactive BI Dashboard**<br>Analytical pipeline syncing 5+ multi-source operational datashards via Azure Data Factory. Architected 30+ custom DAX measures for cohort analysis and YoY growth inside Power BI. |
+| <img src="https://img.shields.io/badge/C-F1FA8C?style=for-the-badge" width="80"> | **PID Self-Balancing Robotics Platform**<br>Autonomous mechatronic vehicle implementing real-time IMU sensor fusion. Etched physical dual-plane logic layout using KiCad/Proteus and structured a native 3D simulation via OpenGL. |
 
 ---
 
@@ -108,16 +110,16 @@
           <summary><b><font color="#e0def4">📁 run Cognitek_Internship.exe</font></b> <font color="#7a7599"><i>(Click to expand)</i></font></summary>
           <div style="padding: 10px; border-left: 2px solid #a9a1e1; margin-left: 10px; margin-top: 5px; background-color: #15151e;">
             <font color="#7ee787">> ROLE: Graphic Design Intern & Market Researcher (May 2025 - Present)</font><br>
-            <font color="#a9a1e1">></font> Researched 15+ AI/ML companies for campaign strategies and pitch prep for 6 startups[cite: 2].<br>
-            <font color="#a9a1e1">></font> Designed 50+ visual assets in Figma/Canva and implemented SEO strategies[cite: 2].
+            <font color="#a9a1e1">></font> Researched 15+ AI/ML companies for campaign strategies and pitch prep for 6 startups.<br>
+            <font color="#a9a1e1">></font> Designed 50+ visual assets in Figma/Canva and implemented SEO strategies.
           </div>
         </details>
         <details style="cursor: pointer; margin-bottom: 15px;">
           <summary><b><font color="#e0def4">📁 run RTU_Robotics_Club.exe</font></b> <font color="#7a7599"><i>(Click to expand)</i></font></summary>
           <div style="padding: 10px; border-left: 2px solid #a9a1e1; margin-left: 10px; margin-top: 5px; background-color: #15151e;">
             <font color="#7ee787">> ROLE: Software Lead (May 2025 - Present)</font><br>
-            <font color="#a9a1e1">></font> Led embedded software dev and mentored members on microprocessors and network protocols[cite: 2].<br>
-            <font color="#a9a1e1">></font> Executed hardware workshops for 250+ students on Arduino and custom PCB layout[cite: 2].
+            <font color="#a9a1e1">></font> Led embedded software dev and mentored members on microprocessors and network protocols.<br>
+            <font color="#a9a1e1">></font> Executed hardware workshops for 250+ students on Arduino and custom PCB layout.
           </div>
         </details>        
         <details style="cursor: pointer; margin-bottom: 15px;">
@@ -158,7 +160,6 @@
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 20px;">      
-      <!-- New Star/CD GIF placed right at the top of the telemetry report -->
       <img src="https://i.pinimg.com/originals/0d/76/23/0d7623526d39e7710d8c965a1715f8b4.gif" width="60" style="margin-bottom: 10px;" />
       <table width="350" align="center" style="border: 1px solid #3b3259; background-color: #15151e; margin-bottom: 20px; border-radius: 4px;">
         <tr bgcolor="#1c1a24">
@@ -173,7 +174,6 @@
           </td>
         </tr>
       </table>
-      <!-- Perfectly blended dark background cards -->
       <div align="center">
         <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=0c0b10&title_color=a9a1e1&text_color=e0def4&icon_color=7ee787&border_color=3b3259&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&bg_color=0c0b10&title_color=a9a1e1&text_color=e0def4&icon_color=7ee787&border_color=3b3259&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
