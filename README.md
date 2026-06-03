@@ -1,6 +1,6 @@
-# 💫 What led you to my digital diary of errors? 
+# 💫 What led you to my digital diary of errors? 🎨🎵
 
-I build at the intersection of Hardware, AI, and Systems. My work ranges from low-level Linux kernel optimizations to high-level Edge ML architectures. When I'm not debugging kernel panics, I’m usually listening to music or experimenting with art.
+I build at the intersection of Systems, Quant Finance, AI, and Hardware. My work ranges from training Neural Stochastic Differential Equations to low-level microcontroller firmware. When my code isn't throwing runtime errors, I'm usually listening to music, sketching, or designing clean UI layouts.
 
 ---
 
@@ -9,51 +9,44 @@ I build at the intersection of Hardware, AI, and Systems. My work ranges from lo
 <table>
   <thead>
     <tr>
-      <th align="center" width="10%">Tier</th>
-      <th align="left" width="90%">Project & Description</th>
+      <th align="center" width="12%">Tier</th>
+      <th align="left" width="88%">Project & Production Logs</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><b><font color="#FF7F7F">S</font></b></td>
+      <td align="center" bgcolor="#FF7F7F"><b><font color="#000000">S TIER</font></b></td>
       <td>
-        <b>Linux Kernel ML Scheduler</b><br>
-        <i>Implementing eBPF-based predictive resource management for Linux kernel scheduling.</i>
+        <b>Neural SDE Volatility Surface Model</b><br>
+        <i>Built a derivatives pricing system using Neural SDEs on 20 years of options data (23% better fit than Black-Scholes). Features a live FastAPI service and a clean Streamlit dashboard for volatility surface visualization. Tested via PyTorch & MATLAB.</i>
       </td>
     </tr>
     <tr>
-      <td align="center"><b><font color="#FFBF7F">A</font></b></td>
+      <td align="center" bgcolor="#FF7F7F"><b><font color="#000000">S TIER</font></b></td>
       <td>
-        <b>fx-arbitrage-detection</b><br>
-        <i>Identifies sequences of currency exchanges that yield risk-free profit via cycle detection.</i>
+        <b>Real-Time FX Arbitrage Detection</b><br>
+        <i>High-frequency cycle detection engine handling 50K+ ticks/second across 20 currency pairs. Implements the Bellman-Ford algorithm alongside Deep Q-Networks for execution. Built with Kafka, Redis, and WebSockets (<5ms latency).</i>
       </td>
     </tr>
     <tr>
-      <td align="center"><b><font color="#FFDF7F">-</font></b></td>
+      <td align="center" bgcolor="#FFBF7F"><b><font color="#000000">A TIER</font></b></td>
       <td>
-        <b>My-Lab</b><br>
-        <i>Advanced workspace configuration designed for an immersive, Iron Man-inspired engineering environment.</i>
+        <b>Distributed Backtest Engine</b><br>
+        <i>Parallelized simulation framework utilizing Ray and Dask to backtest 10,000+ quantitative trading strategies across 15 years of market data. Features an LLM-assisted strategy generation pipeline for quick brainstorming.</i>
       </td>
     </tr>
     <tr>
-      <td align="center"><b><font color="#FFFB7F">B</font></b></td>
+      <td align="center" bgcolor="#FFBF7F"><b><font color="#000000">A TIER</font></b></td>
       <td>
-        <b>NyayBandhu</b><br>
-        <i>AI-driven platform optimized for the equitable distribution of legal and social resources.</i>
+        <b>Interactive Business Intelligence Dashboard</b><br>
+        <i>An end-to-end data analytics system processing live datasets via Azure Data Factory and SQL. Engineered 30+ complex DAX measures in Power BI for advanced cohort analysis and rolling growth metrics (optimized load speeds by 40%).</i>
       </td>
     </tr>
     <tr>
-      <td align="center"><b><font color="#DFFF7F">-</font></b></td>
+      <td align="center" bgcolor="#FFDF7F"><b><font color="#000000">B TIER</font></b></td>
       <td>
-        <b>phase-transition-random-graphs</b><br>
-        <i>Mathematical simulation of emergent properties in Erdős–Rényi random graph models.</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b><font color="#BFFF7F">C</font></b></td>
-      <td>
-        <b>medilensai</b><br>
-        <i>Simplifies and interprets complex medical reports for better public understanding.</i>
+        <b>Self-Balancing Robot</b><br>
+        <i>An autonomous hardware project featuring PID control loops and IMU sensor fusion for instant physical stabilization. Designed the custom dual-layer PCB in KiCad and rendered the 3D physics simulation in real-time using OpenGL.</i>
       </td>
     </tr>
   </tbody>
@@ -63,23 +56,32 @@ I build at the intersection of Hardware, AI, and Systems. My work ranges from lo
 
 ## 💻 Tech Stack & Weapons of Choice
 
-### Systems & Core Development
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🛠️ Core Development & Quant Finance
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Hardware & IoT
+### 🧠 Artificial Intelligence & Data Pipelines
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+
+### 🔌 Hardware & Systems Engineering
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314A8F?style=for-the-badge&logo=kicad&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=5586A4)
 
-### Design & Prototyping
+### 🎨 Visual & Creative Design
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 📊 Systems Analytics
+## 📊 Telemetry & Performance Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -93,5 +95,5 @@ I build at the intersection of Hardware, AI, and Systems. My work ranges from lo
 ---
 
 ## 🌐 Connect Protocol
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/nankalon-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva--jha)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apoorvajha2006@gmail.com)
