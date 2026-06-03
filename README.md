@@ -58,13 +58,11 @@
         At the time of the upload of this report, it is wise to consider the following statistical anomalies:
       </font>
       <br><br>
-      
       <div align="center">
         <!-- High-contrast monochrome API calls -->
         <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
       </div>
-      
       <br><br>
       <div align="right">
         <font face="Courier New" color="#FFFFFF"><i>Page 1 of 1</i></font><br><br>
