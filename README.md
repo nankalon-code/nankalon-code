@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.ibb.co/Sk7Hh7F/Screenshot-2026-06-03-184433.png" alt="Header Banner" width="100%" style="border-radius: 12px;" /><br>
-  <b><font face="Courier New" color="#e0def4" size="5">CODED AND DEBUGGED BY APOORVA</font></b><br>
+  <b><font face="Courier New, Terminal, monospace" color="#e0def4" size="5">CODED AND DEBUGGED BY APOORVA</font></b><br>
   <img src="https://i.pinimg.com/originals/03/44/53/034453b9daba37d4fed3a603adc81c78.gif" alt="Now Loading..." width="250" />
 </p>
 
@@ -17,16 +17,16 @@
       <table width="100%" style="border: 1px solid #3b3259; background-color: #15151e; border-spacing: 0; border-radius: 6px;">
         <tr bgcolor="#1c1a24">
           <td align="left" style="padding: 6px 12px; border-bottom: 1px solid #3b3259;">
-            <b><font color="#a9a1e1" face="Courier New">Tech_Stack.exe</font></b>
+            <b><font color="#a9a1e1" face="Courier New, Terminal, monospace">Tech_Stack.exe</font></b>
           </td>
           <td align="right" style="padding: 6px 12px; border-bottom: 1px solid #3b3259;">
-            <b><font color="#7a7599" face="Courier New">_ □ X</font></b>
+            <b><font color="#7a7599" face="Courier New, Terminal, monospace">_ □ X</font></b>
           </td>
         </tr>
         <tr>
           <td colspan="2" align="center" style="padding: 20px;">
-            <font color="#7ee787" face="Courier New"><b>> Initializing Core Modules... [SUCCESS]</b></font><br>
-            <font color="#a9a1e1" face="Courier New"><b>> Mounting AI & Hardware environments... [OK]</b></font><br><br>            
+            <font color="#7ee787" face="Courier New, Terminal, monospace"><b>> Initializing Core Modules... [SUCCESS]</b></font><br>
+            <font color="#a9a1e1" face="Courier New, Terminal, monospace"><b>> Mounting AI & Hardware environments... [OK]</b></font><br><br>            
             <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
             <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -49,7 +49,7 @@
             <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
             <br><br>            
             <a href="https://github.com/nankalon-code">
-              <kbd style="background-color:#1c1a24; border: 1px solid #3b3259; padding: 4px 20px;"><font color="#a9a1e1" face="Courier New"><b>Execute()</b></font></kbd>
+              <kbd style="background-color:#1c1a24; border: 1px solid #3b3259; padding: 4px 20px;"><font color="#a9a1e1" face="Courier New, Terminal, monospace"><b>Execute()</b></font></kbd>
             </a>
           </td>
         </tr>
@@ -81,15 +81,15 @@
 <table width="100%" align="center" style="border: 1px solid #2d2b38; background-color: #0c0b10; border-spacing: 0; border-radius: 8px;">
   <tr bgcolor="#1c1a24">
     <td align="left" style="padding: 8px 15px; border-bottom: 1px solid #2d2b38;">
-      <b><font color="#a9a1e1" face="Courier New">Experience_&_Certs.log</font></b>
+      <b><font color="#a9a1e1" face="Courier New, Terminal, monospace">Experience_&_Certs.log</font></b>
     </td>
     <td align="right" style="padding: 8px 15px; border-bottom: 1px solid #2d2b38;">
-      <b><font color="#7a7599" face="Courier New">_ □ X</font></b>
+      <b><font color="#7a7599" face="Courier New, Terminal, monospace">_ □ X</font></b>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="padding: 25px;">
-      <font color="#b0adc2" face="Courier New">        
+      <font color="#b0adc2" face="Courier New, Terminal, monospace">        
         <details style="cursor: pointer; margin-bottom: 15px;">
           <summary><b><font color="#e0def4">📁 run Cognitek_Internship.exe</font></b> <font color="#7a7599"><i>(Click to expand)</i></font></summary>
           <div style="padding: 10px; border-left: 2px solid #a9a1e1; margin-left: 10px; margin-top: 5px; background-color: #15151e;">
@@ -129,34 +129,35 @@
 <table width="100%" align="center" style="border: 1px solid #2d2b38; background-color: #0c0b10; border-spacing: 0; border-radius: 8px;">
   <tr bgcolor="#1c1a24">
     <td align="left" style="padding: 8px 15px; border-bottom: 1px solid #2d2b38;">
-      <b><font color="#a9a1e1" face="Courier New">System_Report.log</font></b>
+      <b><font color="#a9a1e1" face="Courier New, Terminal, monospace">System_Report.log</font></b>
     </td>
     <td align="right" style="padding: 8px 15px; border-bottom: 1px solid #2d2b38;">
-      <b><font color="#7a7599" face="Courier New">X</font></b>
+      <b><font color="#7a7599" face="Courier New, Terminal, monospace">X</font></b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 20px;">      
+      <img src="https://i.pinimg.com/originals/0d/76/23/0d7623526d39e7710d8c965a1715f8b4.gif" width="60" style="margin-bottom: 10px;" />
       <table width="350" align="center" style="border: 1px solid #3b3259; background-color: #15151e; margin-bottom: 20px; border-radius: 4px;">
         <tr bgcolor="#1c1a24">
-          <td align="left" style="padding: 4px 10px; border-bottom: 1px solid #3b3259;"><b><font color="#ff7b72" face="Courier New">! Warning !</font></b></td>
-          <td align="right" style="padding: 4px 10px; border-bottom: 1px solid #3b3259;"><b><font color="#ff7b72" face="Courier New">X</font></b></td>
+          <td align="left" style="padding: 4px 10px; border-bottom: 1px solid #3b3259;"><b><font color="#ff7b72" face="Courier New, Terminal, monospace">! Warning !</font></b></td>
+          <td align="right" style="padding: 4px 10px; border-bottom: 1px solid #3b3259;"><b><font color="#ff7b72" face="Courier New, Terminal, monospace">X</font></b></td>
         </tr>
         <tr>
           <td colspan="2" align="center" style="padding: 15px;">
-            <font color="#e0def4" face="Courier New"><b>High telemetry volume detected!</b></font><br><br>
-            <kbd style="background-color:#0c0b10; border: 1px solid #7ee787; padding: 2px 15px;"><font color="#7ee787" face="Courier New">Analyze</font></kbd> &nbsp; 
-            <kbd style="background-color:#0c0b10; border: 1px solid #ff7b72; padding: 2px 15px;"><font color="#ff7b72" face="Courier New">Abort</font></kbd>
+            <font color="#e0def4" face="Courier New, Terminal, monospace"><b>High telemetry volume detected!</b></font><br><br>
+            <kbd style="background-color:#0c0b10; border: 1px solid #7ee787; padding: 2px 15px;"><font color="#7ee787" face="Courier New, Terminal, monospace">Analyze</font></kbd> &nbsp; 
+            <kbd style="background-color:#0c0b10; border: 1px solid #ff7b72; padding: 2px 15px;"><font color="#ff7b72" face="Courier New, Terminal, monospace">Abort</font></kbd>
           </td>
         </tr>
       </table>
       <div align="center">
-        <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=15151e&title_color=a9a1e1&text_color=b0adc2&icon_color=7ee787&border_color=2d2b38&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&bg_color=15151e&title_color=a9a1e1&text_color=b0adc2&icon_color=7ee787&border_color=2d2b38&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+        <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=0c0b10&title_color=a9a1e1&text_color=e0def4&icon_color=7ee787&border_color=3b3259&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&bg_color=0c0b10&title_color=a9a1e1&text_color=e0def4&icon_color=7ee787&border_color=3b3259&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
       </div>
       <br>      
       <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nankalon-code&bg_color=15151e&color=a9a1e1&line=7ee787&point=e0def4&area=true&hide_border=false&border_color=2d2b38" alt="Activity Graph" width="97%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nankalon-code&bg_color=0c0b10&color=a9a1e1&line=7ee787&point=e0def4&area=true&hide_border=false&border_color=3b3259" alt="Activity Graph" width="97%" />
       </div>
       <br>      
       <table width="60%" style="border: 1px solid #3b3259; background-color: #0c0b10;">
@@ -166,13 +167,21 @@
         </tr>
       </table>
       <br>
-      <font color="#7a7599" face="Courier New"><i>Downloading experience... 85%</i></font>
+      <font color="#7a7599" face="Courier New, Terminal, monospace"><i>Downloading experience... 85%</i></font>
       
     </td>
   </tr>
 </table>
 
 <br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=&animation=shootingStar&color=a9a1e1" width="100%" />
+</div>
+
+<div align="center">
+  <code>System compiled successfully. Crafted with C++ and runtime errors.</code>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=&animation=shootingStar&color=a9a1e1" width="100%" />
