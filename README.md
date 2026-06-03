@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/b9/8b/9a/b98b9aca4d1f5fe345f6f70840e37b3f.jpg" alt="Header Banner" width="100%" style="border-radius: 12px;" />
+  <img src="https://i.ibb.co/1J7VLjbk/55c47c7d4f9722638f05e86fe2d375b9.jpg" alt="Header Banner" width="100%" style="border-radius: 12px;" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Apoorva+Jha;Welcome+to+my+digital+diary+of+errors.;Systems+%C2%B7+Quant+%C2%B7+Edge+AI;Executing+startup+sequence..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9D7CD8&center=true&vCenter=true&width=800&lines=Apoorva+Jha;Welcome+to+my+digital+diary+of+errors.;Systems+%C2%B7+Quant+%C2%B7+Edge+AI;Executing+startup+sequence..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,19 +12,19 @@
 
 ## ⚡ SYSTEM DIALOG
 
-<!-- High-Color Terminal Window -->
-<table width="650" align="center" style="border: 2px solid #7F5AF0;">
-  <tr>
-    <th align="left" bgcolor="#16161a">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" width="20" /> 
-      <font color="#7F5AF0" face="Courier New">supremat.platz - Tech_Stack.exe</font>
-    </th>
+<!-- Retro Purple OS Window for Tech Stack -->
+<table width="650" align="center" style="border: 2px solid #5C4B77; background-color: #D4B3E5; border-spacing: 0;">
+  <tr bgcolor="#9D7CD8">
+    <td align="left" style="padding: 4px 10px; border-bottom: 2px solid #5C4B77;">
+      <b><font color="#FFFFFF" face="Courier New">Tech_Stack.exe</font></b>
+    </td>
+    <td align="right" style="padding: 4px 10px; border-bottom: 2px solid #5C4B77;">
+      <b><font color="#FFFFFF" face="Courier New">_ □ X</font></b>
+    </td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#0f0f12">
-      <br>
-      <font color="#FF5555" face="Courier New"><b>> ERROR: You can't download the experience.</b></font><br>
-      <font color="#2CB67D" face="Courier New">> Initializing Core Modules...</font><br><br>
+    <td colspan="2" align="center" style="padding: 20px;">
+      <font color="#4a305a" face="Courier New"><b>> Initializing Core Modules...</b></font><br><br>
             <!-- Colorful Tech Stack Badges -->
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -39,9 +39,9 @@
       <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
       <br><br>
             <a href="https://github.com/nankalon-code">
-        <img src="https://img.shields.io/badge/--ACKNOWLEDGE_&_CONTINUE---7F5AF0?style=for-the-badge" />
+        <kbd style="background-color:#C09CCF; border: 1px solid #5C4B77; padding: 4px 20px;"><font color="#4a305a" face="Courier New"><b>ok</b></font></kbd>
       </a>
-      <br><br>
+      <br>
     </td>
   </tr>
 </table>
@@ -62,32 +62,56 @@
 
 ## 📈 INTERACTIVE TELEMETRY
 
-<!-- Classified Report Container -->
-<table width="100%" align="center" style="border: 2px solid #7F5AF0; background-color: #0f0f12; padding: 20px;">
+<!-- Retro Purple OS Window for Stats (Matching image_e4bae4.png) -->
+<table width="100%" align="center" style="border: 2px solid #5C4B77; background-color: #9D7CD8; padding: 10px;">
   <tr>
-    <td>
-      <font face="Courier New" color="#2CB67D" size="4"><i>> System_Report.log</i></font><br><br>
-      <font face="Courier New" color="#94a1b2" size="3">
-        This is a report on the engineering telemetry, originated at the center of the <code>nankalon-code</code> matrix;<br><br>
-        After the tests started on the deployment objective, waves of high-level code commits began to emerge from the workspace as shown on the wave graphics;<br><br>
-        At the time of the upload of this report, it is wise to consider the following statistical anomalies:
-      </font>
-      <br><br>      
-      <div align="center">
-        <!-- Vibrant TokyoNight theme for maximum color -->
-        <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-      </div>      
-      <br>
-      <div align="center">
-        <!-- Live Commit Activity Graph (Color Matched to the Terminal Background) -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nankalon-code&bg_color=0f0f12&color=7F5AF0&line=2CB67D&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="97%" />
-      </div>
-      <br>
-      <div align="right">
-        <font face="Courier New" color="#7F5AF0"><i>Page 1 of 1</i></font><br><br>
-        <img src="https://img.shields.io/badge/Z--54-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
-      </div>
+    <td align="center">      
+      <!-- Inner White/Lavender Window -->
+      <table width="98%" align="center" style="border: 2px solid #5C4B77; background-color: #D4B3E5;">
+        <tr bgcolor="#C09CCF">
+          <td align="left" style="padding: 4px 10px; border-bottom: 2px solid #5C4B77;">
+            <b><font color="#4a305a" face="Courier New">System_Report.log</font></b>
+          </td>
+          <td align="right" style="padding: 4px 10px; border-bottom: 2px solid #5C4B77;">
+            <b><font color="#4a305a" face="Courier New">X</font></b>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center" style="padding: 15px;">            
+            <!-- Floating "System Error!" Dialog Box -->
+            <table width="350" align="center" style="border: 2px solid #5C4B77; background-color: #E9D5FF; margin-bottom: 20px;">
+              <tr bgcolor="#9D7CD8">
+                <td align="left" style="padding: 2px 10px; border-bottom: 1px solid #5C4B77;"><b><font color="#FFFFFF" face="Courier New">System error !</font></b></td>
+                <td align="right" style="padding: 2px 10px; border-bottom: 1px solid #5C4B77;"><b><font color="#FFFFFF" face="Courier New">X</font></b></td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center" style="padding: 15px;">
+                  <font color="#4a305a" face="Courier New"><b>Telemetry anomaly detected!</b></font><br><br>
+                  <kbd style="background-color:#C09CCF; border: 1px solid #5C4B77; padding: 2px 15px;"><font color="#4a305a" face="Courier New">ok</font></kbd> &nbsp; 
+                  <kbd style="background-color:#C09CCF; border: 1px solid #5C4B77; padding: 2px 15px;"><font color="#4a305a" face="Courier New">oh, no</font></kbd>
+                </td>
+              </tr>
+            </table>
+            <!-- Custom Colored API Stats (Transparent backgrounds to blend into the retro window) -->
+            <div align="center">
+              <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=00000000&title_color=4a305a&text_color=4a305a&icon_color=9D7CD8&border_color=5C4B77&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+              <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&bg_color=00000000&title_color=4a305a&text_color=4a305a&icon_color=9D7CD8&border_color=5C4B77&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+            </div>
+            <br>            
+            <div align="center">
+              <!-- Loading Bar Window -->
+              <table width="80%" align="center" style="border: 1px solid #5C4B77; background-color: #E9D5FF;">
+                <tr>
+                  <td align="left" bgcolor="#9D7CD8" width="60%" style="padding: 5px;"></td>
+                  <td width="40%"></td>
+                </tr>
+              </table>
+              <br>
+              <font color="#4a305a" face="Courier New"><i>Downloading experience... 60%</i></font>
+            </div>            
+          </td>
+        </tr>
+      </table>   
     </td>
   </tr>
 </table>
