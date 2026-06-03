@@ -1,33 +1,18 @@
-<div align="center">
-  <!-- Custom Banner -->
-  <img src="https://i.ibb.co/Sk7Hh7F/Screenshot-2026-06-03-184433.png" alt="Header Banner" width="100%" style="border-radius: 12px;" />
-</div>
-
-<div align="center">
-  <!-- Top Shooting Star Layer -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=&animation=shootingStar&color=a9a1e1" width="100%" />
-</div>
-
-<div align="center">
-  <h3><b><font face="Courier New" color="#e0def4">CODED AND DEBUGGED BY APOORVA</font></b></h3>
-  <!-- Live Loading GIF -->
+<p align="center">
+  <img src="https://i.ibb.co/Sk7Hh7F/Screenshot-2026-06-03-184433.png" alt="Header Banner" width="100%" style="border-radius: 12px;" /><br>
+  <b><font face="Courier New" color="#e0def4" size="5">CODED AND DEBUGGED BY APOORVA</font></b><br>
   <img src="https://i.pinimg.com/originals/03/44/53/034453b9daba37d4fed3a603adc81c78.gif" alt="Now Loading..." width="250" />
-</div>
-
-<br>
+</p>
 
 ---
 
 ## SYSTEM DIALOG
 
-<!-- Perfectly Aligned Outer Table -->
 <table width="100%" style="border: 1px solid #2d2b38; background-color: #0c0b10; border-collapse: collapse; border-radius: 8px;">
   <tr>
-    <!-- Left Side: Potion Element -->
     <td width="30%" align="center" valign="middle" style="border-right: 1px solid #2d2b38; padding: 20px;">
       <img src="https://i.ibb.co/h19PP0Kj/84e8102b22766cec2b684a5ee2c8489b.jpg" width="180" style="border-radius: 8px;" />
-    </td>    
-    <!-- Right Side: Dark Purple/Gray Tech Stack Dialog -->
+    </td>
     <td width="70%" align="center" valign="middle" style="padding: 20px;">
       <table width="100%" style="border: 1px solid #3b3259; background-color: #15151e; border-spacing: 0; border-radius: 6px;">
         <tr bgcolor="#1c1a24">
@@ -42,7 +27,6 @@
           <td colspan="2" align="center" style="padding: 20px;">
             <font color="#7ee787" face="Courier New"><b>> Initializing Core Modules... [SUCCESS]</b></font><br>
             <font color="#a9a1e1" face="Courier New"><b>> Mounting AI & Hardware environments... [OK]</b></font><br><br>            
-            <!-- Expanded Tech Stack -->
             <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
             <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -75,7 +59,6 @@
 </table>
 
 <div align="center">
-  <!-- Middle Shooting Star Layer -->
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=&animation=shootingStar&color=a9a1e1" width="100%" />
 </div>
 
@@ -85,11 +68,11 @@
 
 | TIER | SYSTEM PARAMETERS |
 | :---: | :--- |
-| <img src="https://img.shields.io/badge/S-FF5555?style=for-the-badge" width="80"> | **Neural SDE Volatility Surface Model**<br>Derivatives pricing matrix leveraging Neural SDEs over 20 years of options data (23% tighter fit than Black-Scholes). PostgreSQL backend for options data storage and query optimization[cite: 2]. |
-| <img src="https://img.shields.io/badge/S-FF5555?style=for-the-badge" width="80"> | **Real-Time FX Arbitrage Detection**<br>High-frequency cycle execution engine handling 50K+ ticks/sec via WebSockets. Bellman-Ford path routing and Deep Q-Networks for <5ms operational fills (147bps monthly alpha)[cite: 2]. |
-| <img src="https://img.shields.io/badge/A-FFB86C?style=for-the-badge" width="80"> | **Distributed Strategy Backtest Engine**<br>Massively parallel high-throughput backtesting matrix utilizing Ray and Dask clusters to spin 10,000+ vector variants across 15 historical years. Augmented by LLM-assisted strategy pipelines[cite: 2]. |
-| <img src="https://img.shields.io/badge/B-8BE9FD?style=for-the-badge" width="80"> | **Interactive BI Dashboard**<br>Analytical pipeline syncing 5+ multi-source operational datashards via Azure Data Factory. Architected 30+ custom DAX measures for cohort analysis and YoY growth inside Power BI[cite: 2]. |
-| <img src="https://img.shields.io/badge/C-F1FA8C?style=for-the-badge" width="80"> | **PID Self-Balancing Robotics Platform**<br>Autonomous mechatronic vehicle implementing real-time IMU sensor fusion. Etched physical dual-plane logic layout using KiCad/Proteus and structured a native 3D simulation via OpenGL[cite: 2]. |
+| <img src="https://img.shields.io/badge/S-FF5555?style=for-the-badge" width="80"> | **Neural SDE Volatility Surface Model**<br>Derivatives pricing matrix leveraging Neural SDEs over 20 years of options data (23% tighter fit than Black-Scholes). PostgreSQL backend for options data storage and query optimization. |
+| <img src="https://img.shields.io/badge/S-FF5555?style=for-the-badge" width="80"> | **Real-Time FX Arbitrage Detection**<br>High-frequency cycle execution engine handling 50K+ ticks/sec via WebSockets. Bellman-Ford path routing and Deep Q-Networks for <5ms operational fills (147bps monthly alpha). |
+| <img src="https://img.shields.io/badge/A-FFB86C?style=for-the-badge" width="80"> | **Distributed Strategy Backtest Engine**<br>Massively parallel high-throughput backtesting matrix utilizing Ray and Dask clusters to spin 10,000+ vector variants across 15 historical years. Augmented by LLM-assisted strategy pipelines. |
+| <img src="https://img.shields.io/badge/B-8BE9FD?style=for-the-badge" width="80"> | **Interactive BI Dashboard**<br>Analytical pipeline syncing 5+ multi-source operational datashards via Azure Data Factory. Architected 30+ custom DAX measures for cohort analysis and YoY growth inside Power BI. |
+| <img src="https://img.shields.io/badge/C-F1FA8C?style=for-the-badge" width="80"> | **PID Self-Balancing Robotics Platform**<br>Autonomous mechatronic vehicle implementing real-time IMU sensor fusion. Etched physical dual-plane logic layout using KiCad/Proteus and structured a native 3D simulation via OpenGL. |
 
 ---
 
@@ -107,30 +90,27 @@
   <tr>
     <td colspan="2" style="padding: 25px;">
       <font color="#b0adc2" face="Courier New">        
-        <!-- Interactive Dropdown 1 -->
         <details style="cursor: pointer; margin-bottom: 15px;">
           <summary><b><font color="#e0def4">📁 run Cognitek_Internship.exe</font></b> <font color="#7a7599"><i>(Click to expand)</i></font></summary>
           <div style="padding: 10px; border-left: 2px solid #a9a1e1; margin-left: 10px; margin-top: 5px; background-color: #15151e;">
             <font color="#7ee787">> ROLE: Graphic Design Intern & Market Researcher (May 2025 - Present)</font><br>
-            <font color="#a9a1e1">></font> Researched 15+ AI/ML companies for campaign strategies and pitch prep for 6 startups[cite: 2].<br>
-            <font color="#a9a1e1">></font> Designed 50+ visual assets in Figma/Canva and implemented SEO strategies[cite: 2].
+            <font color="#a9a1e1">></font> Researched 15+ AI/ML companies for campaign strategies and pitch prep for 6 startups.<br>
+            <font color="#a9a1e1">></font> Designed 50+ visual assets in Figma/Canva and implemented SEO strategies.
           </div>
         </details>
-        <!-- Interactive Dropdown 2 -->
         <details style="cursor: pointer; margin-bottom: 15px;">
           <summary><b><font color="#e0def4">📁 run RTU_Robotics_Club.exe</font></b> <font color="#7a7599"><i>(Click to expand)</i></font></summary>
           <div style="padding: 10px; border-left: 2px solid #a9a1e1; margin-left: 10px; margin-top: 5px; background-color: #15151e;">
             <font color="#7ee787">> ROLE: Software Lead (May 2025 - Present)</font><br>
-            <font color="#a9a1e1">></font> Led embedded software dev and mentored members on microprocessors and network protocols[cite: 2].<br>
-            <font color="#a9a1e1">></font> Executed hardware workshops for 250+ students on Arduino and custom PCB layout[cite: 2].
+            <font color="#a9a1e1">></font> Led embedded software dev and mentored members on microprocessors and network protocols.<br>
+            <font color="#a9a1e1">></font> Executed hardware workshops for 250+ students on Arduino and custom PCB layout.
           </div>
         </details>
-        <!-- Interactive Dropdown 3 -->
         <details style="cursor: pointer; margin-bottom: 20px;">
           <summary><b><font color="#e0def4">📁 run Hackathon_Logistics.exe</font></b> <font color="#7a7599"><i>(Click to expand)</i></font></summary>
           <div style="padding: 10px; border-left: 2px solid #a9a1e1; margin-left: 10px; margin-top: 5px; background-color: #15151e;">
              <font color="#7ee787">> ROLE: Organizer | RTU Intra-College</font><br>
-            <font color="#a9a1e1">></font> Coordinated logistics, technical infrastructure, and sponsor outreach for a 150+ participant 24-hour event[cite: 2].
+            <font color="#a9a1e1">></font> Coordinated logistics, technical infrastructure, and sponsor outreach for a 150+ participant 24-hour event.
           </div>
         </details>        
         <font color="#ff7b72"><b>[ SECURE CERTIFICATIONS ]</b></font><br><br>
@@ -157,7 +137,6 @@
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 20px;">      
-      <!-- System Error Dialog -->
       <table width="350" align="center" style="border: 1px solid #3b3259; background-color: #15151e; margin-bottom: 20px; border-radius: 4px;">
         <tr bgcolor="#1c1a24">
           <td align="left" style="padding: 4px 10px; border-bottom: 1px solid #3b3259;"><b><font color="#ff7b72" face="Courier New">! Warning !</font></b></td>
@@ -171,18 +150,15 @@
           </td>
         </tr>
       </table>
-      <!-- Color-Matched API Stats (Dark Purple/Gray) -->
       <div align="center">
         <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=15151e&title_color=a9a1e1&text_color=b0adc2&icon_color=7ee787&border_color=2d2b38&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&bg_color=15151e&title_color=a9a1e1&text_color=b0adc2&icon_color=7ee787&border_color=2d2b38&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
       </div>
       <br>      
-      <!-- Live GitHub Activity Graph -->
       <div align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=nankalon-code&bg_color=15151e&color=a9a1e1&line=7ee787&point=e0def4&area=true&hide_border=false&border_color=2d2b38" alt="Activity Graph" width="97%" />
       </div>
       <br>      
-      <!-- Minimal Loading Bar -->
       <table width="60%" style="border: 1px solid #3b3259; background-color: #0c0b10;">
         <tr>
            <td width="85%" bgcolor="#a9a1e1" style="padding: 3px;"></td>
@@ -190,7 +166,8 @@
         </tr>
       </table>
       <br>
-      <font color="#7a7599" face="Courier New"><i>Downloading experience... 85%</i></font>      
+      <font color="#7a7599" face="Courier New"><i>Downloading experience... 85%</i></font>
+      
     </td>
   </tr>
 </table>
@@ -198,7 +175,6 @@
 <br>
 
 <div align="center">
-  <!-- Bottom Shooting Star Layer -->
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=&animation=shootingStar&color=a9a1e1" width="100%" />
 </div>
 
