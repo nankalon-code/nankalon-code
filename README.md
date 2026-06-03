@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,15,20,30&height=200&section=header&text=Apoorva%20Jha&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
+  <!-- Ensure you upload image_e52bc5.jpg to your repo's main directory -->
+  <img src="image_e52bc5.jpg" alt="Space Header" width="100%" style="border-radius: 12px;" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+diary+of+errors.;Systems+%C2%B7+Quant+%C2%B7+Edge+AI;Executing+startup+sequence..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Apoorva+Jha;Welcome+to+my+digital+diary+of+errors.;Systems+%C2%B7+Quant+%C2%B7+Edge+AI;Executing+startup+sequence..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -47,7 +48,7 @@
 
 ## INTERACTIVE TELEMETRY
 
-<!-- Classified Report Container matching image_e53f01.png -->
+<!-- Classified Report Container -->
 <table width="100%" align="center" style="border: 2px solid #FFFFFF; background-color: #000000; padding: 20px;">
   <tr>
     <td>
@@ -62,7 +63,7 @@
         <!-- High-contrast monochrome API calls -->
         <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-      </div>
+      </div>   
       <br><br>
       <div align="right">
         <font face="Courier New" color="#FFFFFF"><i>Page 1 of 1</i></font><br><br>
