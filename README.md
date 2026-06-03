@@ -47,10 +47,32 @@
 
 ## INTERACTIVE TELEMETRY
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-</div>
+<!-- Classified Report Container matching image_e53f01.png -->
+<table width="100%" align="center" style="border: 2px solid #FFFFFF; background-color: #000000; padding: 20px;">
+  <tr>
+    <td>
+      <font face="Courier New" color="#FFFFFF" size="4"><i>Report:</i></font><br><br>
+      <font face="Courier New" color="#FFFFFF" size="3">
+        This is a report on the engineering telemetry, originated at the center of the <code>nankalon-code</code> matrix;<br><br>
+        After the tests started on the deployment objective, waves of high-level code commits began to emerge from the workspace as shown on the wave graphics;<br><br>
+        At the time of the upload of this report, it is wise to consider the following statistical anomalies:
+      </font>
+      <br><br>
+      
+      <div align="center">
+        <!-- High-contrast monochrome API calls -->
+        <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+      </div>
+      
+      <br><br>
+      <div align="right">
+        <font face="Courier New" color="#FFFFFF"><i>Page 1 of 1</i></font><br><br>
+        <kbd style="background-color:#FFFFFF; color:#000000; border: 2px solid #000000; padding: 5px 15px;"><font face="Courier New"><b>&nbsp;Z - 54 ●&nbsp;</b></font></kbd>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
