@@ -3,15 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=&animation=shootingStar&color=a9a1e1" width="100%" />
-</div>
-
-<div align="center">
-  <h2><b><font face="Courier New" color="#e0def4">CODED AND DEBUGGED BY APOORVA</font></b></h2>
+  <h3><b><font face="Courier New" color="#e0def4">CODED AND DEBUGGED BY APOORVA</font></b></h3>
   <img src="https://i.pinimg.com/originals/03/44/53/034453b9daba37d4fed3a603adc81c78.gif" alt="Now Loading..." width="250" />
 </div>
-
-<br>
 
 ---
 
@@ -141,4 +135,28 @@
         </tr>
       </table>
       <div align="center">
-        <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=15151e&title_color=a9a1e1&text_color=b0adc2&icon_color=7ee787&border_color=2d
+        <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=15151e&title_color=a9a1e1&text_color=b0adc2&icon_color=7ee787&border_color=2d2b38&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&bg_color=15151e&title_color=a9a1e1&text_color=b0adc2&icon_color=7ee787&border_color=2d2b38&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+      </div>
+      <br>      
+      <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nankalon-code&bg_color=15151e&color=a9a1e1&line=7ee787&point=e0def4&area=true&hide_border=false&border_color=2d2b38" alt="Activity Graph" width="97%" />
+      </div>
+      <br>      
+      <table width="60%" style="border: 1px solid #3b3259; background-color: #0c0b10;">
+        <tr>
+           <td width="85%" bgcolor="#a9a1e1" style="padding: 3px;"></td>
+           <td width="15%"></td>
+        </tr>
+      </table>
+      <br>
+      <font color="#7a7599" face="Courier New"><i>Downloading experience... 85%</i></font>      
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <code>System compiled successfully. Crafted with C++ and runtime errors.</code>
+</div>
