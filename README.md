@@ -1,54 +1,64 @@
 <div align="center">
-  <!-- Dynamic GIF Banner -->
-  <img src="https://i.pinimg.com/originals/27/2e/0f/272e0fdb1a64de9493fe71bdb78837bf.gif" alt="Header Banner" width="100%" height="240" style="object-fit: cover; border-radius: 12px;" />
+  <!-- New Custom Banner -->
+  <img src="https://i.pinimg.com/1200x/b2/ac/52/b2ac526766c5ab9de3b4abdc157134e9.jpg" alt="Header Banner" width="100%" height="240" style="object-fit: cover; border-radius: 12px;" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=79C0FF&center=true&vCenter=true&width=800&lines=Apoorva+Jha;B.Tech+CS+%40+Rajasthan+Technical+University;Systems+%C2%B7+Quant+%C2%B7+Edge+AI;Executing+startup+sequence..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A9A1E1&center=true&vCenter=true&width=800&lines=Apoorva+Jha;B.Tech+CS+%40+Rajasthan+Technical+University;Systems+%C2%B7+Quant+%C2%B7+Edge+AI;Executing+startup+sequence..." alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## ⚡ SYSTEM DIALOG
+## SYSTEM DIALOG
 
-<!-- Cat Image and Colorful Tech Stack placed side-by-side -->
-<table width="100%" style="border: none; background-color: transparent;">
+<!-- Perfectly Aligned Outer Table -->
+<table width="100%" style="border: 1px solid #2d2b38; background-color: #0c0b10; border-collapse: collapse; border-radius: 8px;">
   <tr>
-    <!-- Left Side: Cute Cat Element -->
-    <td width="25%" align="center" valign="middle">
-      <img src="https://i.ibb.co/h19PP0Kj/84e8102b22766cec2b684a5ee2c8489b.jpg" width="160" style="border-radius: 8px;" />
+    <!-- Left Side: Potion Element -->
+    <td width="30%" align="center" valign="middle" style="border-right: 1px solid #2d2b38; padding: 20px;">
+      <img src="https://i.ibb.co/h19PP0Kj/84e8102b22766cec2b684a5ee2c8489b.jpg" width="180" style="border-radius: 8px;" />
     </td>    
-    <!-- Right Side: Colorful Terminal Tech Stack Dialog -->
-    <td width="75%" align="center">
-      <table width="100%" style="border: 2px solid #79C0FF; background-color: #0d1117; border-spacing: 0; border-radius: 8px;">
-        <tr bgcolor="#10263c">
-          <td align="left" style="padding: 6px 12px; border-bottom: 2px solid #79C0FF;">
-            <b><font color="#79C0FF" face="Courier New">Tech_Stack.exe</font></b>
+    <!-- Right Side: Dark Purple/Gray Tech Stack Dialog -->
+    <td width="70%" align="center" valign="middle" style="padding: 20px;">
+      <table width="100%" style="border: 1px solid #3b3259; background-color: #15151e; border-spacing: 0; border-radius: 6px;">
+        <tr bgcolor="#1c1a24">
+          <td align="left" style="padding: 6px 12px; border-bottom: 1px solid #3b3259;">
+            <b><font color="#a9a1e1" face="Courier New">Tech_Stack.exe</font></b>
           </td>
-          <td align="right" style="padding: 6px 12px; border-bottom: 2px solid #79C0FF;">
-            <b><font color="#79C0FF" face="Courier New">_ □ X</font></b>
+          <td align="right" style="padding: 6px 12px; border-bottom: 1px solid #3b3259;">
+            <b><font color="#7a7599" face="Courier New">_ □ X</font></b>
           </td>
         </tr>
         <tr>
           <td colspan="2" align="center" style="padding: 20px;">
             <font color="#7ee787" face="Courier New"><b>> Initializing Core Modules... [SUCCESS]</b></font><br>
-            <font color="#d2a8ff" face="Courier New"><b>> Mounting AI & Hardware environments... [OK]</b></font><br><br>            
+            <font color="#a9a1e1" face="Courier New"><b>> Mounting AI & Hardware environments... [OK]</b></font><br><br>            
+            <!-- Expanded Tech Stack -->
             <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+            <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+            <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
             <br>
             <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
             <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
             <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+            <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
             <br>
             <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
             <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
             <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/KiCad-314A8F?style=for-the-badge&logo=kicad&logoColor=white" />
+            <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=5586A4" />
+            <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+            <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
             <br><br>            
             <a href="https://github.com/nankalon-code">
-              <kbd style="background-color:#10263c; border: 1px solid #79C0FF; padding: 4px 20px;"><font color="#79C0FF" face="Courier New"><b>Execute()</b></font></kbd>
+              <kbd style="background-color:#1c1a24; border: 1px solid #3b3259; padding: 4px 20px;"><font color="#a9a1e1" face="Courier New"><b>Execute()</b></font></kbd>
             </a>
           </td>
         </tr>
@@ -59,7 +69,7 @@
 
 ---
 
-## 📂 PRODUCTION LOGS & TIERLIST
+## PRODUCTION LOGS & TIERLIST
 
 | TIER | SYSTEM PARAMETERS |
 | :---: | :--- |
@@ -71,33 +81,32 @@
 
 ---
 
-## 💜 USER_PROFILE.EXE (EXPERIENCE & CERTS)
+## USER_PROFILE.EXE
 
-<!-- Lavender "Pop" Window Effect -->
-<table width="100%" align="center" style="border: 2px solid #D2A8FF; background-color: #0d1117; border-spacing: 0; border-radius: 8px;">
-  <tr bgcolor="#1f162e">
-    <td align="left" style="padding: 8px 15px; border-bottom: 2px solid #D2A8FF;">
-      <b><font color="#D2A8FF" face="Courier New">User_Profile.exe</font></b>
+<table width="100%" align="center" style="border: 1px solid #2d2b38; background-color: #0c0b10; border-spacing: 0; border-radius: 8px;">
+  <tr bgcolor="#1c1a24">
+    <td align="left" style="padding: 8px 15px; border-bottom: 1px solid #2d2b38;">
+      <b><font color="#a9a1e1" face="Courier New">Experience_&_Certs.log</font></b>
     </td>
-    <td align="right" style="padding: 8px 15px; border-bottom: 2px solid #D2A8FF;">
-      <b><font color="#D2A8FF" face="Courier New">_ □ X</font></b>
+    <td align="right" style="padding: 8px 15px; border-bottom: 1px solid #2d2b38;">
+      <b><font color="#7a7599" face="Courier New">_ □ X</font></b>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="padding: 25px;">
-      <font color="#ffffff" face="Courier New">
-        <b>Graphic Design Intern & Market Researcher | Cognitek</b> <font color="#8b949e"><i>(May 2025 - Present)</i></font><br>
-        <font color="#79C0FF">></font> Researched 15+ AI/ML companies for campaign strategies and pitch prep for 6 startups[cite: 2].<br>
-        <font color="#79C0FF">></font> Designed 50+ visual assets in Figma/Canva and implemented SEO strategies[cite: 2].<br><br>        
-        <b>Software Lead | RTU Robotics Club</b> <font color="#8b949e"><i>(May 2025 - Present)</i></font><br>
-        <font color="#79C0FF">></font> Led embedded software dev and mentored members on microprocessors and network protocols[cite: 2].<br>
-        <font color="#79C0FF">></font> Executed hardware workshops for 250+ students on Arduino and custom PCB layout[cite: 2].<br><br>        
-        <b>Hackathon Organizer | RTU Intra-College</b><br>
-        <font color="#79C0FF">></font> Coordinated logistics, technical infrastructure, and sponsor outreach for a 150+ participant 24-hour event[cite: 2].<br><br>
-        <font color="#7ee787"><b>[ CERTIFICATIONS ]</b></font><br>
-        <kbd style="background-color:#1f162e; color:#D2A8FF; border: 1px solid #D2A8FF;">Deloitte Tech Job Simulation</kbd> 
-        <kbd style="background-color:#1f162e; color:#D2A8FF; border: 1px solid #D2A8FF;">Codecademy Azure & DevOps</kbd> 
-        <kbd style="background-color:#1f162e; color:#D2A8FF; border: 1px solid #D2A8FF;">ML for Mathematics (Coursera)</kbd>
+      <font color="#b0adc2" face="Courier New">
+        <font color="#e0def4"><b>Graphic Design Intern & Market Researcher | Cognitek</b></font> <font color="#7a7599"><i>(May 2025 - Present)</i></font><br>
+        <font color="#a9a1e1">></font> Researched 15+ AI/ML companies for campaign strategies and pitch prep for 6 startups[cite: 2].<br>
+        <font color="#a9a1e1">></font> Designed 50+ visual assets in Figma/Canva and implemented SEO strategies[cite: 2].<br><br>        
+        <font color="#e0def4"><b>Software Lead | RTU Robotics Club</b></font> <font color="#7a7599"><i>(May 2025 - Present)</i></font><br>
+        <font color="#a9a1e1">></font> Led embedded software dev and mentored members on microprocessors and network protocols[cite: 2].<br>
+        <font color="#a9a1e1">></font> Executed hardware workshops for 250+ students on Arduino and custom PCB layout[cite: 2].<br><br>        
+        <font color="#e0def4"><b>Hackathon Organizer | RTU Intra-College</b></font><br>
+        <font color="#a9a1e1">></font> Coordinated logistics, technical infrastructure, and sponsor outreach for a 150+ participant 24-hour event[cite: 2].<br><br>
+        <font color="#7ee787"><b>[ CERTIFICATIONS ]</b></font><br><br>
+        <kbd style="background-color:#15151e; color:#a9a1e1; border: 1px solid #3b3259;">Deloitte Tech Job Simulation</kbd> 
+        <kbd style="background-color:#15151e; color:#a9a1e1; border: 1px solid #3b3259;">Codecademy Azure & DevOps</kbd> 
+        <kbd style="background-color:#15151e; color:#a9a1e1; border: 1px solid #3b3259;">ML for Mathematics (Coursera)</kbd>
       </font>
     </td>
   </tr>
@@ -105,54 +114,53 @@
 
 ---
 
-## 📈 INTERACTIVE TELEMETRY
+## INTERACTIVE TELEMETRY
 
-<!-- Vibrant Red/Coral OS Window for Stats -->
-<table width="100%" align="center" style="border: 2px solid #FF7B72; background-color: #0d1117; border-spacing: 0; border-radius: 8px;">
-  <tr bgcolor="#3a1d1d">
-    <td align="left" style="padding: 8px 15px; border-bottom: 2px solid #FF7B72;">
-      <b><font color="#FF7B72" face="Courier New">System_Report.log</font></b>
+<table width="100%" align="center" style="border: 1px solid #2d2b38; background-color: #0c0b10; border-spacing: 0; border-radius: 8px;">
+  <tr bgcolor="#1c1a24">
+    <td align="left" style="padding: 8px 15px; border-bottom: 1px solid #2d2b38;">
+      <b><font color="#a9a1e1" face="Courier New">System_Report.log</font></b>
     </td>
-    <td align="right" style="padding: 8px 15px; border-bottom: 2px solid #FF7B72;">
-      <b><font color="#FF7B72" face="Courier New">X</font></b>
+    <td align="right" style="padding: 8px 15px; border-bottom: 1px solid #2d2b38;">
+      <b><font color="#7a7599" face="Courier New">X</font></b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 20px;">      
-      <!-- Colorful System Error Dialog -->
-      <table width="350" align="center" style="border: 1px solid #FF7B72; background-color: #161b22; margin-bottom: 20px; border-radius: 4px;">
-        <tr bgcolor="#3a1d1d">
-          <td align="left" style="padding: 4px 10px; border-bottom: 1px solid #FF7B72;"><b><font color="#FF7B72" face="Courier New">! Warning !</font></b></td>
-          <td align="right" style="padding: 4px 10px; border-bottom: 1px solid #FF7B72;"><b><font color="#FF7B72" face="Courier New">X</font></b></td>
+      <!-- System Error Dialog -->
+      <table width="350" align="center" style="border: 1px solid #3b3259; background-color: #15151e; margin-bottom: 20px; border-radius: 4px;">
+        <tr bgcolor="#1c1a24">
+          <td align="left" style="padding: 4px 10px; border-bottom: 1px solid #3b3259;"><b><font color="#ff7b72" face="Courier New">! Warning !</font></b></td>
+          <td align="right" style="padding: 4px 10px; border-bottom: 1px solid #3b3259;"><b><font color="#ff7b72" face="Courier New">X</font></b></td>
         </tr>
         <tr>
           <td colspan="2" align="center" style="padding: 15px;">
-            <font color="#ffffff" face="Courier New"><b>High telemetry volume detected!</b></font><br><br>
-            <kbd style="background-color:#0d1117; border: 1px solid #7ee787; padding: 2px 15px;"><font color="#7ee787" face="Courier New">Analyze</font></kbd> &nbsp; 
-            <kbd style="background-color:#0d1117; border: 1px solid #FF7B72; padding: 2px 15px;"><font color="#FF7B72" face="Courier New">Abort</font></kbd>
+            <font color="#e0def4" face="Courier New"><b>High telemetry volume detected!</b></font><br><br>
+            <kbd style="background-color:#0c0b10; border: 1px solid #7ee787; padding: 2px 15px;"><font color="#7ee787" face="Courier New">Analyze</font></kbd> &nbsp; 
+            <kbd style="background-color:#0c0b10; border: 1px solid #ff7b72; padding: 2px 15px;"><font color="#ff7b72" face="Courier New">Abort</font></kbd>
           </td>
         </tr>
       </table>
-      <!-- Color-Matched API Stats (Title: Coral, Text: Blue, Icons: Purple) -->
+      <!-- Color-Matched API Stats (Dark Purple/Gray) -->
       <div align="center">
-        <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=0d1117&title_color=FF7B72&text_color=79C0FF&icon_color=D2A8FF&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&bg_color=0d1117&title_color=FF7B72&text_color=79C0FF&icon_color=D2A8FF&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+        <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&bg_color=15151e&title_color=a9a1e1&text_color=b0adc2&icon_color=7ee787&border_color=2d2b38&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&bg_color=15151e&title_color=a9a1e1&text_color=b0adc2&icon_color=7ee787&border_color=2d2b38&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
       </div>
       <br>      
-      <!-- Live GitHub Activity Graph (Color-Matched) -->
+      <!-- Live GitHub Activity Graph -->
       <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nankalon-code&bg_color=0d1117&color=FF7B72&line=79C0FF&point=D2A8FF&area=true&hide_border=false&border_color=30363d" alt="Activity Graph" width="97%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nankalon-code&bg_color=15151e&color=a9a1e1&line=7ee787&point=e0def4&area=true&hide_border=false&border_color=2d2b38" alt="Activity Graph" width="97%" />
       </div>
       <br>      
-      <!-- Colorful HTML Loading Bar -->
-      <table width="60%" style="border: 1px solid #79C0FF; background-color: #10263c;">
+      <!-- Minimal Loading Bar -->
+      <table width="60%" style="border: 1px solid #3b3259; background-color: #0c0b10;">
         <tr>
-           <td width="75%" bgcolor="#79C0FF" style="padding: 4px;"></td>
-           <td width="25%"></td>
+           <td width="85%" bgcolor="#a9a1e1" style="padding: 3px;"></td>
+           <td width="15%"></td>
         </tr>
       </table>
       <br>
-      <font color="#79C0FF" face="Courier New"><i>Downloading experience... 75%</i></font>      
+      <font color="#7a7599" face="Courier New"><i>Downloading experience... 85%</i></font>      
     </td>
   </tr>
 </table>
