@@ -1,12 +1,11 @@
 <div align="center">
-  <!-- New Custom Banner -->
+  <!-- Custom Banner -->
   <img src="https://i.pinimg.com/1200x/b2/ac/52/b2ac526766c5ab9de3b4abdc157134e9.jpg" alt="Header Banner" width="100%" height="240" style="object-fit: cover; border-radius: 12px;" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A9A1E1&center=true&vCenter=true&width=800&lines=Apoorva+Jha;B.Tech+CS+%40+Rajasthan+Technical+University;Systems+%C2%B7+Quant+%C2%B7+Edge+AI;Executing+startup+sequence..." alt="Typing SVG" />
-  </a>
+  <!-- Transparent Animated Shooting Star Background Effect -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=&animation=shootingStar&color=a9a1e1" width="100%" />
 </div>
 
 ---
@@ -126,8 +125,8 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="padding: 20px;">      
-      <!-- System Error Dialog -->
+    <td colspan="2" align="center" style="padding: 20px;">
+            <!-- System Error Dialog -->
       <table width="350" align="center" style="border: 1px solid #3b3259; background-color: #15151e; margin-bottom: 20px; border-radius: 4px;">
         <tr bgcolor="#1c1a24">
           <td align="left" style="padding: 4px 10px; border-bottom: 1px solid #3b3259;"><b><font color="#ff7b72" face="Courier New">! Warning !</font></b></td>
