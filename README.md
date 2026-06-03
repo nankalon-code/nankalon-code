@@ -1,27 +1,35 @@
 <p align="center">
-  <!-- Ultra-minimalist Bento Header inspired by image_e61be6.png -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e&height=180&section=header&text=Apoorva%20Jha&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <!-- Dynamic, Animated Wave + Typewriter Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,15,20,30&height=200&section=header&text=Apoorva%20Jha&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <b>BUILD • SHIP • SCALE</b><br>
-  <i>"What led you to my digital diary of errors?" 🎨 🎵</i>
+  <!-- Animated Typewriter Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=BUILD+%E2%80%A2+SHIP+%E2%80%A2+SCALE;What+led+you+to+my+diary+of+errors%3F;Systems+%E2%80%A2+Quant+%E2%80%A2+Edge+AI" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/apoorva--jha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
-  <a href="mailto:apoorvajha2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
+  <!-- Moving/Glowing Social Badges -->
+  <a href="https://www.linkedin.com/in/apoorva--jha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  <a href="mailto:apoorvajha2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  </a>
 </p>
 
 ---
 
-## 🔮 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Sensory%20and%20its%20parts/Crystal%20Ball.png" alt="Crystal Ball" width="35" /> Core Protocol
+
 > **Building systems that survive production.** 🚀
 > I build at the intersection of Systems, Quant Finance, AI, and Hardware. My work ranges from training Neural Stochastic Differential Equations to low-level microcontroller firmware. When my code isn't throwing runtime errors, I'm usually listening to music, sketching, or designing clean interfaces.
 
 ---
 
-## 📊 personal projects tierlist
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="35" /> personal projects tierlist
 
 <table width="100%">
   <thead>
@@ -71,24 +79,44 @@
 
 ---
 
-## 🛠️ Tech Stack
-_Clean, pill-shaped tags inspired by the bento grid architecture of image_e61be6.png_
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" /> Tech Stack & Arsenal
 
 ### 📈 Quant & Core Dev
-`Python` • `C++` • `Java` • `SQL` • `MATLAB` • `Linux`
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ### 🧠 AI & Data Engineering
-`PyTorch` • `Kafka` • `Redis` • `FastAPI` • `Power BI` • `DAX` • `Azure Data Factory`
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+</p>
 
 ### 🔌 Hardware & Graphics
-`Arduino` • `KiCad` • `Proteus` • `Embedded Systems` • `OpenGL`
-
-### 🎨 Design & Layout
-`Figma` • `Canva`
+<p align="left">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314A8F?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=5586A4" />
+</p>
 
 ---
 
-## 📊 Telemetry & Performance Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Musical%20Notes.png" alt="Musical Notes" width="35" /> Currently Tuning To
+<!-- Dynamic visualizer card indicating your artistic/music vibe -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nankalon-code&repo=TaxAgent-OpenEnv&theme=tokyonight&show_owner=true" width="100%" />
+</a>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bar%20Chart.png" alt="Bar Chart" width="35" /> Telemetry & Performance Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=nankalon-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nankalon-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
@@ -100,5 +128,6 @@ _Clean, pill-shaped tags inspired by the bento grid architecture of image_e61be6
 
 ---
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="40" /><br>
   <font size="2">Crafted with 🤍 and lots of compiler errors.</font>
 </p>
